@@ -6,9 +6,7 @@ function Intro() {
       <h1 className="text-4xl md:text-5xl mb-1 md:mb-3 font-bold text-blue-900">Hi! You can call me <span className='text-blue-700'>Wiellona</span></h1>
       <p className='text-base md:text-xl mb-3 font-medium text-yellow-500'>Undergraduate Computer Engineering Student</p>
       <p className='text-base md:text-base font-small max-w-xl mb-6 px-4 text-slate-900'>
-        First-year student who interested in self-development, tech, and art. I
-        am eager to learn more about opportunities in the tech industry and how
-        I can use my skills and interests to make a positive impact.
+        An ordinary first-year student who dreams about working at Silicon Valley (aren't we all?). I enjoy learning something new and make the implementation to make myself better and improve.
       </p>
 
       {/* Github and Linkedin Section Start */}
