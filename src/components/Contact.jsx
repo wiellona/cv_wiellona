@@ -2,7 +2,8 @@ import React from "react";
 
 function Contact() {
   return (
-    <div className="flex flex-col mb-10 mx-4">
+    <section id="contact">
+      <div className="flex flex-col mb-10 mx-4">
       <h1 className="font-semibold text-center pb-5 text-2xl ">Leave whatever you like to say</h1>
       <div className="flex justify-center items-center">
         <form
@@ -35,6 +36,8 @@ function Contact() {
         </form>
       </div>
     </div>
+    </section>
+    
   );
 }
 

@@ -2,7 +2,8 @@ import React from 'react'
 
 function Intro() {
   return (
-    <div className="flex items-center justify-center flex-col text-center pt-20 pb-6">
+    <section id='intro'>
+      <div className="flex items-center justify-center flex-col text-center mt-20 pt-20 pb-20">
       <h1 className="text-4xl md:text-5xl mb-1 md:mb-3 font-bold text-blue-900">Hi! You can call me <span className='text-blue-700'>Wiellona</span></h1>
       <p className='text-base md:text-xl mb-3 font-medium text-yellow-500'>Undergraduate Computer Engineering Student</p>
       <p className='text-base md:text-base font-small max-w-xl mb-6 px-4 text-slate-900'>
@@ -26,6 +27,8 @@ function Intro() {
         <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
       {/* Github and Linkedin Section End */}
     </div>
+    </section>
+    
   );
 }
 
