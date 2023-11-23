@@ -9,7 +9,7 @@ function Education () {
             <div className='layout flex flex-col-reverse items-center md:flex-row md:justify-start'>
                 <div className='w-full px-4 mb-10 lg:w-1/3'>
                     <h2 className='font-bold text-xl mb-2 max-w-xl'>SD - SMP Ora et Labora Pamulang</h2>
-                    <p className='font-medium text-base text-slate-800 max-wl-xl'>Jl. Raya Pamulang Permai Blok L.19, Kel. Pamulang Barat, Kec. Pamulang, Kota Tangerang Selatan, Banten 15314</p>
+                    <p className='font-medium text-base text-slate-800 max-wl-xl'>Jl. Raya Pamulang Permai Blok L.19, Kota Tangerang Selatan, Banten 15314</p>
                     <a href='https://oel.sch.id/' target='_blank' className='text-blue-500'>https://oel.sch.id/</a>
                 </div>
 

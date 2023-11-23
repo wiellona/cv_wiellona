@@ -1,12 +1,11 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import React from 'react'
 import Contact from './components/Contact'
 import Education from './components/Education'
 import Footer from './components/Footer'
 import Intro from './components/Intro'
 import Timeline from './components/Timeline'
+import Projects from './components/Projects'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -16,6 +15,7 @@ function App() {
       <Intro />
       <Education />
       <Timeline />
+      <Projects />
       <Contact />
       <Footer />
     </div>
